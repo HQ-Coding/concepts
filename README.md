@@ -2,14 +2,6 @@
 
 Welcome to the **Concept** repository! This is a space where I share my diverse projects spanning programming, marketing, app UI/UX design, and more. Here, you'll find various resources, code snippets, designs, and strategies aimed at fostering innovation and creativity.
 
-## Table of Contents
-- [Programming Projects](#programming-projects)
-- [Marketing Strategies](#marketing-strategies)
-- [App UI/UX Designs](#app-uiux-designs)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## Contributing
 Contributions are welcome! If you have suggestions, improvements, or new ideas, feel free to create a pull request or open an issue. Please ensure that your contributions align with the project's goals and adhere to the provided guidelines.
 
